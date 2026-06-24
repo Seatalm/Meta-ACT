@@ -1,0 +1,10 @@
+{
+    "contact_points": [
+        {
+            "id": 0,
+            "description": "On the handle of the kettle",
+            "usage": "Used to hold or pour the kettle."
+        }
+    ],
+    "functional_points": []
+}

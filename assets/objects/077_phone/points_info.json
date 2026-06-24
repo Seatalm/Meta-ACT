@@ -1,0 +1,16 @@
+{
+    "contact_points": [
+        {
+            "id": [0, 1],
+            "description": "At the center of the phone",
+            "usage": "Used to grab or hold the phone." 
+        }
+    ],
+    "functional_points": [
+        {
+            "id": 0,
+            "description": "At the center of the bottom edge of the phone.",
+            "usage": "Used to indicate the position where the bottom of the phone contacts the stand when the phone is placed on it."
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "contact_points": [
+        {
+            "id": [0, 1, 2, 3],
+            "description": "On the handle of the seal.",
+            "usage": "Used to hold or grip the seal from any side."
+        },
+        {
+            "id": [4, 5, 6, 7],
+            "description": "On the handle of the seal.",
+            "usage": "Used to hold or grip the seal from top down."
+        }
+    ],
+    "functional_points": []
+}

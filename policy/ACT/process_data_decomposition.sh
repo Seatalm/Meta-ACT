@@ -1,0 +1,11 @@
+ python process_data_decomposition.py place_can_basket_decomposition demo_random_light 50 --subtask_id 1
+ python process_data_decomposition.py place_burger_fries_decomposition demo_random_light 50 --subtask_id 1
+
+
+python process_data_decomposition.py place_can_basket_decomposition demo_clean_decomposition 50 --subtask_id 1
+python process_data_decomposition.py place_burger_fries_decomposition demo_clean_decomposition 50 --subtask_id 1
+python process_data_decomposition.py blocks_ranking_rgb_decomposition demo_clean_decomposition 50 --subtask_id 1
+python process_data_decomposition.py put_object_cabinet_decomposition demo_clean_decomposition 50 --subtask_id 1
+python process_data_decomposition.py blocks_ranking_rgb_decomposition demo_clean_decomposition 50 --subtask_id 1
+python process_data_decomposition.py place_dual_shoes_decomposition demo_clean_decomposition 50 --subtask_id 1
+python process_data_decomposition.py stack_bowls_two_decomposition demo_clean_decomposition 50 --subtask_id 1

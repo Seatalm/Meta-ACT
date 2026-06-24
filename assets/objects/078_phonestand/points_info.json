@@ -1,0 +1,10 @@
+{
+    "contact_points": [],
+    "functional_points": [
+        {
+            "id": 0,
+            "description": "At the center of the phone stand's tray.",
+            "usage": "Used to indicate the position where the phone should be placed on the stand."
+        }
+    ]
+}

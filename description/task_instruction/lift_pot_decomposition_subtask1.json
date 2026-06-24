@@ -1,0 +1,11 @@
+{
+  "seen": [
+    "Grasp {A} for the first lifting stage.",
+    "Hold the pot {A} with both arms.",
+    "Prepare {A} to be lifted."
+  ],
+  "unseen": [
+    "Grab {A}.",
+    "Secure the pot {A}."
+  ]
+}

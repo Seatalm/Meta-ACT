@@ -1,0 +1,11 @@
+{
+  "seen": [
+    "Use {a} to pick up {A} and place it into {B}.",
+    "Put {A} inside {B} with {a}.",
+    "Move {A} into the basket {B}."
+  ],
+  "unseen": [
+    "Place {A} into {B}.",
+    "Transfer the can {A} into {B}."
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "seen": [
+    "Pick up {A}.",
+    "Grasp the small bin {A}.",
+    "Hold {A} before dumping."
+  ],
+  "unseen": [
+    "Grab {A}.",
+    "Secure the bin {A}."
+  ]
+}

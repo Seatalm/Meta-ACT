@@ -1,0 +1,10 @@
+{
+    "contact_points": [
+        {
+            "id": [0, 1, 2, 3, 4, 5, 6, 7],
+            "description": "At the center of the small speaker",
+            "usage": "Used for grasping the small speaker."
+        }
+    ],
+    "functional_points": []
+}

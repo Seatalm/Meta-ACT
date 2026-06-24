@@ -1,0 +1,15 @@
+{
+    "contact_points": [],
+    "functional_points": [
+        {
+            "id": 0,
+            "description": "At the center of the left side of the tray",
+            "usage": "Used to indicate the position where the object on the left should be placed into the tray."
+        },
+        {
+            "id": 1,
+            "description": "At the center of the right side of the tray",
+            "usage": "Used to indicate the position where the object on the right should be placed into the tray."
+        }
+    ]
+}

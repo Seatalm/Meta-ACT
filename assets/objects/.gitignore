@@ -1,0 +1,7 @@
+# Keep object assets in Git.
+# Ignore generated decomposition caches and local helper/editor files.
+**/decompose_cache/*
+_script/*
+/_copy_to.sh
+/.vscode/
+.DS_Store

@@ -1,0 +1,10 @@
+{
+    "contact_points": [],
+    "functional_points": [
+        {
+            "id": 0,
+            "description": "At the bottom of the mini chalkboard",
+            "usage": "Used for placing the mini chalkboard on a surface."
+        }
+    ]
+}

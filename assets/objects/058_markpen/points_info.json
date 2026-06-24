@@ -1,0 +1,21 @@
+{
+    "contact_points": [
+        {
+            "id": [0, 1, 2, 3, 4, 5, 6, 7],
+            "description": "At the center of markpen",
+            "usage": "Used for grasping the markpen."
+        }
+    ],
+    "functional_points": [
+        {
+            "id": 0,
+            "description": "At the tip of the markpen.",
+            "usage": "Used to write or draw with the markpen."
+        },
+        {
+            "id": 1,
+            "description": "At the cap of the markpen.",
+            "usage": "Used to cover the tip of the markpen when not in use."
+        }
+    ]
+}

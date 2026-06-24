@@ -1,0 +1,10 @@
+{
+    "contact_points": [
+        {
+            "id": [0, 1],
+            "description": "At the center of the soap",
+            "usage": "Used to hold or grip the soap from top down."
+        }
+    ],
+    "functional_points": []
+}

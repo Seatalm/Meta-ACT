@@ -1,0 +1,11 @@
+{
+  "seen": [
+    "Use {c} to place {C} after {B}.",
+    "Move {C} to the final ranking position.",
+    "Place the blue block {C} at the right position."
+  ],
+  "unseen": [
+    "Put {C} in the third position.",
+    "Move the final block {C} into place."
+  ]
+}

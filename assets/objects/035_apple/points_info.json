@@ -1,0 +1,10 @@
+{
+    "contact_points": [
+        {
+            "id": [0, 1, 2, 3],
+            "description": "At the center of the apple",
+            "usage": "Used for grasping the apple from top down."
+        }
+    ],
+    "functional_points": []
+}

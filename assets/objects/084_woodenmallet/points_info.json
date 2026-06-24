@@ -1,0 +1,16 @@
+{
+    "contact_points": [
+        {
+            "id": [0, 1],
+            "description": "On the handle of the wooden mallet",
+            "usage": "Used to grab or hold the wooden mallet."
+        }
+    ],
+    "functional_points": [
+        {
+            "id": 0,
+            "description": "On both sides of the wooden hammer head.",
+            "usage": "Used to indicate the direction in which the wooden mallet is poin"
+        }
+    ]
+}

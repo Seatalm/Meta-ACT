@@ -1,0 +1,16 @@
+{
+    "contact_points": [
+        {
+            "id": 0,
+            "description": "On the handle of the scanner",
+            "usage": "Used for grasping the scanner."
+        }
+    ],
+    "functional_points": [
+        {
+            "id": 0,
+            "description": "On the scanning surface of the scanner",
+            "usage": "Used to indicate the direction in which the scanner needs to be aligned with the object when scanning."
+        }
+    ]
+}

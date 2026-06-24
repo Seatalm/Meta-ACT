@@ -1,0 +1,11 @@
+{
+  "seen": [
+    "Use {a} to place {A} at the base position.",
+    "Move {A} to the bottom stacking target.",
+    "Put the red block {A} down as the lower block."
+  ],
+  "unseen": [
+    "Place {A} at the base.",
+    "Move the first block {A} into position."
+  ]
+}

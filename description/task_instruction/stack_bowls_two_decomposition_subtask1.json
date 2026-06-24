@@ -1,0 +1,11 @@
+{
+  "seen": [
+    "Use {a} to place the bottom bowl {A} at the base target.",
+    "Move {A} to the stacking base position.",
+    "Put {A} down as the lower bowl."
+  ],
+  "unseen": [
+    "Place {A} at the base.",
+    "Move the first bowl {A} into position."
+  ]
+}

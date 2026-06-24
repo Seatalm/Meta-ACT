@@ -1,0 +1,11 @@
+{
+  "seen": [
+    "Place the right shoe {A} into {B}.",
+    "Move the second shoe {A} into the shoe box {B}.",
+    "Put the right-side {A} into {B}."
+  ],
+  "unseen": [
+    "Transfer the right shoe {A} to {B}.",
+    "Put the remaining shoe {A} into {B}."
+  ]
+}

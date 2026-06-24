@@ -1,0 +1,11 @@
+{
+  "seen": [
+    "Use {b} to stack {B} on top of {A}.",
+    "Place {B} above {A}.",
+    "Move the green block {B} onto the red block {A}."
+  ],
+  "unseen": [
+    "Stack {B} on {A}.",
+    "Place the second block {B} onto {A}."
+  ]
+}

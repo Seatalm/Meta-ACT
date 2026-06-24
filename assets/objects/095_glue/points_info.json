@@ -1,0 +1,10 @@
+{
+    "contact_points": [
+        {
+            "id": [0, 1, 2, 3],
+            "description": "At the center of the glue bottle's cap.",
+            "usage": "Used to hold or grip the glue bottle."
+        }
+    ],
+    "functional_points": []
+}

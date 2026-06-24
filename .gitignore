@@ -1,0 +1,91 @@
+# RoboTwin Git ignore rules
+# Keep source code and assets by default. Exclude generated data,
+# experiment outputs, local environments, caches, and non-ACT policies.
+
+# OS / editor / local config
+.DS_Store
+**/.DS_Store
+.vscode/
+.idea/
+.trae/
+*.swp
+*.swo
+.gitignore.bak_*
+/config.json
+
+# Python / build caches
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+build/
+dist/
+.eggs/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Local virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Generated datasets and evaluation outputs
+/data/
+/eval_result/
+/logs/
+/results/
+/result/
+/eval_video/
+data_test*/
+
+# Model artifacts, checkpoints, weights, and training dumps
+models/
+**/checkpoints/
+**/checkpoint*/
+**/ckpt*/
+**/*ckpt*/
+**/*.ckpt
+**/*.pth
+**/*.pt
+**/*.safetensors
+**/*.onnx
+**/*.bin
+policy/weights/
+
+# Keep only ACT under policy. Other policy implementations and their
+# local environments / training outputs are excluded.
+/policy/*
+!/policy/ACT/
+!/policy/ACT/**
+/policy/__pycache__/
+/policy/ACT/**/__pycache__/
+/policy/ACT/**/*.egg-info/
+/policy/ACT/act_ckpt/
+/policy/ACT/processed_data/
+/policy/ACT/wandb/
+/policy/ACT/runs/
+/policy/ACT/outputs/
+/policy/ACT/**/*.log
+
+# Heavy simulator / third-party generated environment artifacts
+/envs/curobo/
+
+# Keep assets, but exclude asset cache / archive extraction junk.
+/assets/.cache/
+/assets/__MACOSX/
+/assets/**/*.zip
+/assets/**/*.tar
+/assets/**/*.tar.gz
+/assets/**/*.tgz
+/assets/**/*.rar
+
+# Misc generated files
+*.zip
+viewer_show.*
+wandb/
+runs/
+outputs/

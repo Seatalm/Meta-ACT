@@ -1,0 +1,15 @@
+{
+    "contact_points": [
+        {
+            "id": [0, 1, 2, 3, 4, 5, 6, 7],
+            "description": "At the center of the can",
+            "usage": "Used for grasping the can from any side."
+        },
+        {
+            "id": [8, 9, 10, 11, 12, 13, 14, 15],
+            "description": "At the top center of the can",
+            "usage": "Used for grasping the can from the top."
+        }
+    ],
+    "functional_points": []
+}

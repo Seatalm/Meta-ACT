@@ -1,0 +1,11 @@
+{
+  "seen": [
+    "Dump the contents of {A} into the large bin.",
+    "Tilt {A} to pour into the big bin.",
+    "Empty {A} into the target bin."
+  ],
+  "unseen": [
+    "Dump {A}.",
+    "Pour from {A} into the big bin."
+  ]
+}

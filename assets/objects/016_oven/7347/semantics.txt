@@ -1,0 +1,6 @@
+link_0 hinge knob
+link_1 hinge rotation_tray
+link_2 slider translation_tray
+link_3 heavy oven_body
+link_4 hinge door
+link_5 hinge door

@@ -1,0 +1,81 @@
+{
+    "center": [
+        2.2626238959236294e-06,
+        0.025168648024525803,
+        -9.251869568394343e-05
+    ],
+    "extents": [
+        0.15069521721480625,
+        0.052236000538342,
+        0.03787999849793703
+    ],
+    "scale": [
+        1.0,
+        1.0,
+        1.0
+    ],
+    "transform_matrix": [
+        [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+        ],
+        [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+        ],
+        [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ]
+    ],
+    "target_pose": [],
+    "contact_points_pose": [],
+    "functional_matrix": [
+        [
+            [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            [
+                0.0,
+                1.0,
+                0.0,
+                0.0510299988090992
+            ],
+            [
+                0.0,
+                -0.0,
+                1.0,
+                -0.0
+            ],
+            [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ]
+        ]
+    ],
+    "orientation_point": [],
+    "contact_points_group": [],
+    "contact_points_mask": [],
+    "target_point_discription": [],
+    "contact_points_discription": [],
+    "functional_point_discription": [],
+    "orientation_point_discription": [],
+    "stable": true
+}

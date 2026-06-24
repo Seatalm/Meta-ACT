@@ -1,0 +1,43 @@
+{
+    "scale": 0.08,
+    "target_points": [],
+    "contact_points": [
+        {
+            "matrix": [
+                [
+                    -9.999999747378752e-06,
+                    -0.010209999978542328,
+                    0.9999499917030334,
+                    -0.0
+                ],
+                [
+                    0.9999600052833557,
+                    -0.008430000394582748,
+                    -7.000000186963007e-05,
+                    -0.12845000624656677
+                ],
+                [
+                    0.008430000394582748,
+                    0.9999099969863892,
+                    0.010209999978542328,
+                    0.16930000483989716
+                ],
+                [
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ]
+            ],
+            "base": "link_1"
+        }
+    ],
+    "functional_points": [],
+    "orientation_point": [],
+    "contact_points_group": [],
+    "contact_points_mask": [],
+    "target_points_discription": [],
+    "contact_points_discription": [],
+    "functional_points_discription": [],
+    "orientation_point_discription": []
+}

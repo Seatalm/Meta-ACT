@@ -1,0 +1,15 @@
+{
+    "contact_points": [],
+    "functional_points": [
+        {
+            "id": 0,
+            "description": "Placement point 1 on the top of the shoe box.",
+            "usage": "Used to indicate where to place other objects inside the shoebox."
+        },
+        {
+            "id": 1,
+            "description": "Placement point 2 on the top of the shoe box.",
+            "usage": "Used to indicate where to place other objects inside the shoebox."
+        }
+    ]
+}

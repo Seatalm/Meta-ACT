@@ -1,0 +1,15 @@
+{
+    "contact_points": [
+        {
+            "id": [0, 2, 3, 4, 5, 6, 7, 8],
+            "description": "On the high part of the microphone",
+            "usage": "Used for grasping the microphone."
+        },
+        {
+            "id": [1, 9, 10, 11, 12, 13, 14, 15],
+            "description": "On the low part of the microphone",
+            "usage": "Used for grasping the microphone or hand over the microphone."
+        }
+    ],
+    "functional_points": []
+}

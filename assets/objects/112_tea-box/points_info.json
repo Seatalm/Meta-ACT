@@ -1,0 +1,21 @@
+{
+    "contact_points": [
+        {
+            "id": [0, 1, 2, 3, 4, 5, 6, 7],
+            "description": "At the center of the tea box.",
+            "usage": "Used to hold or grip the tea box from any side."
+        }
+    ],
+    "functional_points": [
+        {
+            "id": 0,
+            "description": "At the bottom center of the tea box.",
+            "usage": "Used to place or move the tea box on a flat surface, the direction of the tea box is forward."
+        },
+        {
+            "id": 1,
+            "description": "At the bottom center of the tea box.",
+            "usage": "Used to place or move the tea box on a flat surface, the direction of the tea box is backward."
+        }
+    ]
+}

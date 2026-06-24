@@ -1,0 +1,21 @@
+{
+    "contact_points": [
+        {
+            "id": [0, 1, 2, 3, 4, 5],
+            "description": "The edge of the mug",
+            "usage": "Used for grasping the mug."
+        }
+    ],
+    "functional_points": [
+        {
+            "id": 0,
+            "description": "At the center of the mug handle",
+            "usage": "Used to hang the mug on the rack."
+        },
+        {
+            "id": 1,
+            "description": "At the bottom of the mug",
+            "usage": "Used to place the mug on a surface."
+        }
+    ]
+}

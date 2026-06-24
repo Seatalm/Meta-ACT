@@ -1,0 +1,21 @@
+{
+    "contact_points": [
+        {
+            "id": [0, 1, 2, 3],
+            "description": "At the center of the pill bottle",
+            "usage": "Used to grab or hold the pill bottle from any side."
+        },
+        {
+            "id": [4, 5, 6, 7],
+            "description": "At the top of the pill bottle",
+            "usage": "Used to grab or hold the pill bottle from top."
+        }
+    ],
+    "functional_points": [
+        {
+            "id": 0,
+            "description": "At the bottom center of the pill bottle",
+            "usage": "Used to place the pill bottle on a surface."
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "contact_points": [
+        {
+            "id": [0, 1, 2, 3, 4, 5, 6, 7],
+            "description": "On the handle of the trophy",
+            "usage": "Used to grab or hold the trophy."
+        }
+    ],
+    "functional_points": []
+}

@@ -1,0 +1,15 @@
+{
+    "contact_points": [],
+    "functional_points": [
+        {
+            "id": 0,
+            "description": "On the groove of the pen holder.",
+            "usage": "Used to indicate the brush pen's position when it is placed down or stored."
+        },
+        {
+            "id": 1,
+            "description": "On the groove of the pen holder.",
+            "usage": "Used to indicate the brush pen's position when it is placed down or stored."
+        }
+    ]
+}

@@ -1,0 +1,3 @@
+# Keep embodiment asset files in Git.
+# Ignore only local/editor noise here; root .gitignore handles global junk.
+.DS_Store

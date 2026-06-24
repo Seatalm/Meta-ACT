@@ -1,0 +1,10 @@
+{
+    "contact_points": [
+        {
+            "id": [0, 1],
+            "description": "At the center of the shampoo bottle",
+            "usage": "Used for grasping the shampoo bottle."
+        }
+    ],
+    "functional_points": []
+}

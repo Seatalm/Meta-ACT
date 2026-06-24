@@ -1,0 +1,11 @@
+{
+  "seen": [
+    "Use {b} to open {B}.",
+    "Pull open the cabinet {B} with {b}.",
+    "Open the drawer of {B} using {b}."
+  ],
+  "unseen": [
+    "Open {B}.",
+    "Pull the cabinet drawer open."
+  ]
+}

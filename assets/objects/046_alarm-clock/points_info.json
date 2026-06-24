@@ -1,0 +1,10 @@
+{
+    "contact_points": [
+        {
+            "id": [0, 1],
+            "description": "On the button at the top of the alarm clock",
+            "usage": "Used to indicate the position to press the alarm clock button."
+        }
+    ],
+    "functional_points": []
+}

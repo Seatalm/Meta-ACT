@@ -1,0 +1,10 @@
+{
+    "contact_points": [],
+    "functional_points": [
+        {
+            "id": 0,
+            "description": "At the top center of the electronic scale",
+            "usage": "Used to indicate where to place objects on the scale for weighing."
+        }
+    ]
+}

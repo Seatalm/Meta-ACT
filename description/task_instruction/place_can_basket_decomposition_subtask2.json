@@ -1,0 +1,11 @@
+{
+  "seen": [
+    "Lift {B} after {A} has been placed inside it.",
+    "Use the other arm to raise the basket {B}.",
+    "Pick up {B} while keeping {A} inside."
+  ],
+  "unseen": [
+    "Raise {B} with the can inside.",
+    "Lift the basket {B} containing {A}."
+  ]
+}

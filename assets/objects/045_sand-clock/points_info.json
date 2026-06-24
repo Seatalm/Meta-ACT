@@ -1,0 +1,10 @@
+{
+    "contact_points": [
+        {
+            "id": [0, 1, 2, 3],
+            "description": "On the handle of the sand clock",
+            "usage": "Used for grasping the sand clock." 
+        }
+    ],
+    "functional_points": []
+}

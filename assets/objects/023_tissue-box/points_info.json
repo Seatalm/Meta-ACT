@@ -1,0 +1,10 @@
+{
+    "contact_points": [
+        {
+            "id": [0, 1],
+            "description": "On the side of the tissue box",
+            "usage": "Used for grasping the tissue box."
+        }
+    ],
+    "functional_points": []
+}

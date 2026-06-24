@@ -1,0 +1,11 @@
+{
+  "seen": [
+    "Pick up {C} and place it onto {B}.",
+    "Move {C} onto the tray {B}.",
+    "Put {C} down on {B} for the second stage."
+  ],
+  "unseen": [
+    "Transfer {C} to {B}.",
+    "Place the fries object {C} on {B}."
+  ]
+}

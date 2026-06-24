@@ -1,0 +1,10 @@
+{
+    "contact_points": [],
+    "functional_points": [
+        {
+            "id": 0,
+            "description": "At the end of the rack's hanging bar",
+            "usage": "Used to indicate the position where other objects need to be hung on the rack."
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+  "seen": [
+    "Lift {A} upward.",
+    "Raise the pot {A}.",
+    "Move {A} up after grasping it."
+  ],
+  "unseen": [
+    "Lift {A}.",
+    "Raise the held pot {A}."
+  ]
+}

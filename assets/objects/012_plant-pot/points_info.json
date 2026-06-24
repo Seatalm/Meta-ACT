@@ -1,0 +1,10 @@
+{
+    "contact_points": [
+        {
+            "id": [0, 1],
+            "description": "On two sides of the plant pot",
+            "usage": "Used for grasping the plant pot."
+        }
+    ],
+    "functional_points": []
+}

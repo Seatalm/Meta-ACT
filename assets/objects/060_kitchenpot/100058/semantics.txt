@@ -1,0 +1,4 @@
+link_0 slider lid
+link_1 slider button
+link_2 slider slider
+link_3 free pot_body

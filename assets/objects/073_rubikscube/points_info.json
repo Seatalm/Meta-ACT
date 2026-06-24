@@ -1,0 +1,15 @@
+{
+    "contact_points": [
+        {
+            "id": [0, 1, 2, 3],
+            "description": "At the center of the Rubik's Cube",
+            "usage": "Used for grasping the Rubik's Cube from any side."
+        },
+        {
+            "id": [4, 5, 6, 7],
+            "description": "At the corners of the Rubik's Cube",
+            "usage": "Used for grasping the Rubik's Cube from top."
+        }
+    ],
+    "functional_points": []
+}

@@ -1,0 +1,93 @@
+{
+    "center": [
+        -0.01396676550460919,
+        1.825204578475036,
+        -0.02662350768141985
+    ],
+    "extents": [
+        3.244133875078963,
+        3.69362067838968,
+        2.1979404502421405
+    ],
+    "scale": [
+        0.2,
+        0.2,
+        0.2
+    ],
+    "target_pose": [
+        [
+            [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            [
+                0.0,
+                1.0,
+                0.0,
+                0.0
+            ],
+            [
+                0.0,
+                0.0,
+                1.0,
+                0.0
+            ],
+            [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ]
+        ]
+    ],
+    "contact_points_pose": [],
+    "transform_matrix": [
+        [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+        ],
+        [
+            -0.0,
+            0.0,
+            1.0,
+            0.0
+        ],
+        [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ]
+    ],
+    "functional_matrix": [],
+    "orientation_point": [],
+    "contact_points_group": [
+        [
+            0
+        ]
+    ],
+    "contact_points_mask": [
+        true
+    ],
+    "contact_points_discription": [],
+    "target_point_discription": [
+        "The center of the object."
+    ],
+    "functional_point_discription": [
+        ""
+    ],
+    "orientation_point_discription": [
+        ""
+    ],
+    "stable": true
+}

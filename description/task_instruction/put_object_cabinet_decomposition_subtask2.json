@@ -1,0 +1,11 @@
+{
+  "seen": [
+    "Use {a} to pick up {A} and put it into {B}.",
+    "Place {A} inside the open cabinet {B} with {a}.",
+    "Move {A} into {B} after the drawer is open."
+  ],
+  "unseen": [
+    "Put {A} into {B}.",
+    "Transfer the object {A} into the cabinet {B}."
+  ]
+}

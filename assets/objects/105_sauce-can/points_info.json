@@ -1,0 +1,15 @@
+{
+    "contact_points": [
+        {
+            "id": [0, 1, 2, 3, 4, 5, 6, 7],
+            "description": "On the center of the sauce can.",
+            "usage": "Used to hold or grip the sauce can from any side."
+        },
+        {
+            "id": [8, 9, 10, 11, 12, 13, 14, 15],
+            "description": "On the top center of the sauce can.",
+            "usage": "Used to hold or grip the sauce can from the top."
+        }
+    ],
+    "functional_points": []
+}

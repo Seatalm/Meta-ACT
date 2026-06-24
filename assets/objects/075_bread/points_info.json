@@ -1,0 +1,15 @@
+{
+    "contact_points": [
+        {
+            "id": [0, 1, 2, 3],
+            "description": "At the center of the bread",
+            "usage": "Used to grasp the bread from top."
+        },
+        {
+            "id": 4,
+            "description": "At the center of the bread",
+            "usage": "Used to grasp the bread from side."
+        }
+    ],
+    "functional_points": []
+}
